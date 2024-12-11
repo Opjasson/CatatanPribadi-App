@@ -1,0 +1,9 @@
+nav.navbar {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav.navbar h1 {
+    font-size: 2rem;
+}
